@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Raphael Torres
 
-
 - 🌱 Estou aprendendo...
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/phtorresmo">
