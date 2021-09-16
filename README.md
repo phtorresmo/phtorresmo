@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Raphael Torres
 
-- 🌱 Estou aprendendo...
+- 🌱 Aluno na ETEC - Escola Técnica Estadual de São Paulo - Bento Quirino
 - 😄 Pronomes: ele/dele
 
 <div>
